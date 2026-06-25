@@ -1,0 +1,88 @@
+<span class="count ">
+        <a class="newExternalPopUpLink" shablon-pattern="223FZModal" data-modalup="" href="/epz/order/notice/notice223/document/signview/listModal.html?documentGuid=adb4638d-d2fe-443e-b0a8-f714becd3ab6&amp;purchaseNoticeNumber=32616149027&amp;entityGuid=fea9fe53-71b8-43ac-b368-572ed10bbf45" data-tooltip="<span class=&quot;custom-tooltiptext&quot;>Просмотреть ЭП</span>">
+            <img src="/epz/static/img/icons/icon_key.svg" alt="">
+        </a>
+        
+            
+                
+                
+                    <img alt="Adobe Acrobat Document" src="/epz/static/img/icons/type/pdf.svg" class="vAlignMiddle margRight5" data-tooltip="<span class='custom-tooltiptext'>Adobe Acrobat Document</span>">
+                    <a href="https://zakupki.gov.ru/223/filestore/public/1.0/download/fz223/file.html?uid=570CC06D317E45FAA8F52485F8091941" data-tooltip="<span class=&quot;custom-tooltiptext&quot;>Протокол о закупке у единственного поставщика № 32-26..pdf</span>">
+                        
+                            
+                            
+                                Протокол о закупке у единственного поставщика № 32-26.
+                            
+                        
+                    </a>
+                
+            
+        
+    </span>
+
+							
+
+
+
+
+
+<div class="">
+    
+            <span class="vAlignMiddle successCheckAntivirus" title="Проведена проверка на наличие вирусов"></span>
+    
+
+    <span class="count ">
+        <a class="newExternalPopUpLink" shablon-pattern="223FZModal" data-modalup="" href="/epz/order/notice/notice223/document/signview/listModal.html?documentGuid=3e4adaf1-eb90-4aec-95fb-0a0a860a7c22&amp;purchaseNoticeNumber=32616148227&amp;entityGuid=a1a40844-8e33-4981-b47d-a2ee4bf4fc8b" data-tooltip="<span class=&quot;custom-tooltiptext&quot;>Просмотреть ЭП</span>">
+            <img src="/epz/static/img/icons/icon_key.svg" alt="">
+        </a>
+        
+            
+                
+                
+                    <img alt="Microsoft Word Document" src="/epz/static/img/icons/type/docx.svg" class="vAlignMiddle margRight5" data-tooltip="<span class='custom-tooltiptext'>Microsoft Word Document</span>">
+                    <a href="https://zakupki.gov.ru/223/filestore/public/1.0/download/fz223/file.html?uid=96256FB7A8E747F5995E5F8D36A7A6DE" data-tooltip="<span class=&quot;custom-tooltiptext&quot;>Документация Приобретение и поставка аккумуляторов  2025 год с изменениями.docx</span>">
+                        
+                            
+                            
+                                Документация Приобретение и поставка аккумуляторов  2025 год с изменениями.docx
+                            
+                        
+                    </a>
+                
+            
+        
+    </span>
+
+    
+        
+    
+</div>
+
+
+												
+
+
+<span class="count ">
+        <a class="newExternalPopUpLink" shablon-pattern="223FZModal" data-modalup="" href="/epz/order/notice/notice223/document/signview/listModal.html?documentGuid=15c3fcc5-3c90-4735-8eab-5f8e9847ec6f&amp;purchaseNoticeNumber=32616148227&amp;entityGuid=a1a40844-8e33-4981-b47d-a2ee4bf4fc8b" data-tooltip="<span class=&quot;custom-tooltiptext&quot;>Просмотреть ЭП</span>">
+            <img src="/epz/static/img/icons/icon_key.svg" alt="">
+        </a>
+        
+            
+                
+                
+                    <img alt="Microsoft Excel Document" src="/epz/static/img/icons/type/xlsx.svg" class="vAlignMiddle margRight5" data-tooltip="<span class='custom-tooltiptext'>Microsoft Excel Document</span>">
+                    <a href="https://zakupki.gov.ru/223/filestore/public/1.0/download/fz223/file.html?uid=EB9944AFD28E42A4811C82F0B736D69A" data-tooltip="<span class=&quot;custom-tooltiptext&quot;>Приложение № 5. Обоснование НМЦД (аккумуляторы).xlsx</span>">
+                        
+                            
+                            
+                                Приложение № 5. Обоснование НМЦД (аккумуляторы).xlsx
+                            
+                        
+                    </a>
+                
+            
+        
+    </span>
+
+
+												
